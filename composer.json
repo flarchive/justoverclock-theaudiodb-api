@@ -1,0 +1,40 @@
+{
+    "name": "justoverclock/theaudiodb-api",
+    "description": "TheAudioDB API integration for Flarum",
+    "keywords": [
+        "theaudiodb",
+        "music",
+        "audio"
+    ],
+    "type": "flarum-extension",
+    "license": "0BSD",
+    "require": {
+        "flarum/core": "^1.0.0"
+    },
+    "require-dev": {
+        "flarum/testing": "^1.0.0"
+    },
+    "authors": [
+        {
+            "name": "Marco Colia",
+            "email": "info@flarum.it",
+            "role": "Developer"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Justoverclock\\TheAudioDbApi\\": "src/"
+        }
+    },
+    "extra": {
+        "flarum-extension": {
+            "title": "TheAudioDB API",
+            "category": "",
+            "icon": {
+                "name": "fas fa-volume-up",
+                "backgroundColor": "purple",
+                "color": "white"
+            }
+        }
+    }
+}
