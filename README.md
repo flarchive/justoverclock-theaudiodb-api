@@ -2,13 +2,21 @@
 
 > **Read-only archive of released versions of justoverclock/theaudiodb-api.** Not for installation: use [Packagist](https://packagist.org/packages/justoverclock/theaudiodb-api) or the [upstream repository](https://github.com/justoverclockl/theaudiodb-api).
 
-**0** versions archived · Latest: [`0.2.0`](https://github.com/flarchive/justoverclock-theaudiodb-api/tree/archive/v0.2.0) · License: `0BSD` · Flarum: `^1.0.0`
+**9** versions archived · Latest: [`0.2.0`](https://github.com/flarchive/justoverclock-theaudiodb-api/tree/archive/v0.2.0) · License: `0BSD` · Flarum: `^1.0.0`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `0.1.0` | 2021-11-09 | `^1.0.0` | [Browse](https://github.com/flarchive/justoverclock-theaudiodb-api/tree/archive/v0.1.0) |
+| `0.1.1` | 2021-11-09 | `^1.0.0` | [Browse](https://github.com/flarchive/justoverclock-theaudiodb-api/tree/archive/v0.1.1) |
+| `0.1.2` | 2021-11-09 | `^1.0.0` | [Browse](https://github.com/flarchive/justoverclock-theaudiodb-api/tree/archive/v0.1.2) |
+| `0.1.3` | 2021-11-10 | `^1.0.0` | [Browse](https://github.com/flarchive/justoverclock-theaudiodb-api/tree/archive/v0.1.3) |
+| `0.1.4` | 2021-11-13 | `^1.0.0` | [Browse](https://github.com/flarchive/justoverclock-theaudiodb-api/tree/archive/v0.1.4) |
+| `0.1.5` | 2021-11-29 | `^1.0.0` | [Browse](https://github.com/flarchive/justoverclock-theaudiodb-api/tree/archive/v0.1.5) |
+| `0.1.6` | 2021-12-04 | `^1.0.0` | [Browse](https://github.com/flarchive/justoverclock-theaudiodb-api/tree/archive/v0.1.6) |
+| `0.1.7` | 2023-02-04 | `^1.0.0` | [Browse](https://github.com/flarchive/justoverclock-theaudiodb-api/tree/archive/v0.1.7) |
+| `0.2.0` | 2023-02-04 | `^1.0.0` | [Browse](https://github.com/flarchive/justoverclock-theaudiodb-api/tree/archive/v0.2.0) |
 
 Catalog entry: [packages/justoverclock-theaudiodb-api.json](https://github.com/flarchive/archive-index/blob/main/packages/justoverclock-theaudiodb-api.json)
 
